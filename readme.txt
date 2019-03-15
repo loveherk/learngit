@@ -4,12 +4,12 @@ Git has a mutable index called stages
 sssssssssssssssssssssss
 sssssssssssssssssssss
 ssssss
+sss
+ss
+ss
+ss
 s
-s
-s
-s
-s
-s
-s
+ss
+ssssssss
 s
 
